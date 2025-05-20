@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TranSonMVC", "TranSonMVC\TranSonMVC.csproj", "{80AF9154-E369-5A5B-8777-C087FA79224F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80AF9154-E369-5A5B-8777-C087FA79224F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80AF9154-E369-5A5B-8777-C087FA79224F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80AF9154-E369-5A5B-8777-C087FA79224F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80AF9154-E369-5A5B-8777-C087FA79224F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C886749-A618-450F-8C9C-75FA89DD9361}
+	EndGlobalSection
+EndGlobal
